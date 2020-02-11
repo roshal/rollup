@@ -1,0 +1,17 @@
+
+/*
+
+!/docs/
+!/source/
+
+!/.editorconfig
+!/.eslintignore
+!/.eslintrc.yaml
+!/.flowconfig
+!/.gitignore
+
+!/alias.js
+!/babel.config.js
+!/package-scripts.yml
+!/package.json
+!/rollup.config.js
